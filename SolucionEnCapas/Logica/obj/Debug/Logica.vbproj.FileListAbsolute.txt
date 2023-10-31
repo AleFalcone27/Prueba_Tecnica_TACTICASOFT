@@ -1,0 +1,15 @@
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\bin\Debug\Logica.dll
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\bin\Debug\Logica.pdb
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\bin\Debug\Logica.xml
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\bin\Debug\Datos.dll
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\bin\Debug\Datos.pdb
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\bin\Debug\Datos.xml
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\obj\Debug\Logica.dll
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\obj\Debug\Logica.xml
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\obj\Debug\Logica.pdb
+C:\Users\aleef\OneDrive\Escritorio\Prueba Tecnica TACTICASOFT\SolucionEnCapas\Logica\bin\Debug\Datos.dll.config
